@@ -1,0 +1,285 @@
+﻿  WinGameScene.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  WindowGame.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\windowgame.cpp(43): warning C4101: 'hdc': unreferenced local variable
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\windowgame.cpp(42): warning C4101: 'ps': unreferenced local variable
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\windowgame.cpp(41): warning C4101: 'wmEvent': unreferenced local variable
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\windowgame.cpp(41): warning C4101: 'wmId': unreferenced local variable
+  WhiteMoneyBag.cpp
+  WhipUpgrade.cpp
+  WhipSitDown.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\whipsitdown.cpp(64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\whipsitdown.cpp(65): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\whipsitdown.cpp(71): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  WeaponLocations.cpp
+  Whip.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\whip.cpp(64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\whip.cpp(65): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\whip.cpp(71): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  WeaponType.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\weapontype.cpp(45): warning C4305: 'argument': truncation from 'double' to 'float'
+  Weapon.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\weapon.cpp(31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\weapon.cpp(32): warning C4305: '=': truncation from 'double' to 'float'
+  TripleShotItem.cpp
+  Trap.cpp
+  Time.cpp
+  TileMap.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\tilemap.cpp(53): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\tilemap.cpp(54): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\tilemap.cpp(56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\tilemap.cpp(57): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\tilemap.cpp(61): warning C4244: '=': conversion from 'FLOAT' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\tilemap.cpp(62): warning C4244: '=': conversion from 'FLOAT' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\tilemap.cpp(92): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\tilemap.cpp(93): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\tilemap.cpp(94): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\tilemap.cpp(95): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  ThrowingAxeItem.cpp
+  ThrowingAxe.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\throwingaxe.cpp(41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Texture.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\texture.cpp(44): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  StopWatchItem.cpp
+  StopWatch.cpp
+  Stairs.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\stairs.cpp(9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\stairs.cpp(11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\stairs.cpp(13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\stairs.cpp(18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\stairs.cpp(19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\stairs.cpp(61): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\stairs.cpp(61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  StageNumber.cpp
+  Generating Code...
+  Compiling...
+  Stage.cpp
+  SpriteManager.cpp
+  Sprite.cpp
+  SpearKnight.cpp
+  Sound.cpp
+  SmallHeart.cpp
+  Skeleton_Bone.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\skeleton_bone.cpp(19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\skeleton_bone.cpp(44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\skeleton_bone.cpp(75): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\skeleton_bone.cpp(76): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\skeleton_bone.cpp(77): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\skeleton_bone.cpp(79): warning C4305: '=': truncation from 'double' to 'float'
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\skeleton_bone.cpp(83): warning C4305: 'argument': truncation from 'double' to 'float'
+  Skeleton.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\skeleton.cpp(27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\skeleton.cpp(34): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\skeleton.cpp(46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\skeleton.cpp(48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\skeleton.cpp(49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\skeleton.cpp(68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\skeleton.cpp(70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\skeleton.cpp(76): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\skeleton.cpp(78): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Simon.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\simon.cpp(27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\simon.cpp(212): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\simon.cpp(396): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\simon.cpp(396): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\simon.cpp(420): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\simon.cpp(421): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\simon.cpp(422): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\simon.cpp(423): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\simon.cpp(429): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\simon.cpp(571): warning C4305: '=': truncation from 'double' to 'float'
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\simon.cpp(573): warning C4305: '=': truncation from 'double' to 'float'
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\simon.cpp(581): warning C4305: '=': truncation from 'double' to 'float'
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\simon.cpp(583): warning C4305: '=': truncation from 'double' to 'float'
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\simon.cpp(655): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\simon.cpp(657): warning C4305: 'argument': truncation from 'double' to 'float'
+  ShortTrap.cpp
+  Score.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\score.cpp(33): warning C4305: 'argument': truncation from 'double' to 'float'
+  Scene.cpp
+  RedMoneyBag.cpp
+  RectF.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\rectf.cpp(36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Raven.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\raven.cpp(35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\raven.cpp(71): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\raven.cpp(72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\raven.cpp(99): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\raven.cpp(159): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\raven.cpp(174): warning C4305: 'argument': truncation from 'double' to 'float'
+  QuadTree.cpp
+  QuadNode.cpp
+  PurpleMoneyBag.cpp
+  PorkChop.cpp
+  Point.cpp
+  Generating Code...
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\stage.cpp(38): warning C4715: 'Stage::update': not all control paths return a value
+  Compiling...
+  OldRestore.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\oldrestore.cpp(6): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\oldrestore.cpp(7): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\oldrestore.cpp(12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\oldrestore.cpp(13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ObjectsCategory.cpp
+  NumberWeaponAppear.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\numberweaponappear.cpp(36): warning C4305: 'argument': truncation from 'double' to 'float'
+  NumberOfAttack.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\numberofattack.cpp(34): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\numberofattack.cpp(35): warning C4305: 'argument': truncation from 'double' to 'float'
+  NumberOfAlive.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\numberofalive.cpp(34): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\numberofalive.cpp(35): warning C4305: 'argument': truncation from 'double' to 'float'
+  Number.cpp
+  MummyMan_Bandage.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\mummyman_bandage.cpp(18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\mummyman_bandage.cpp(19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\mummyman_bandage.cpp(20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\mummyman_bandage.cpp(44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\mummyman_bandage.cpp(73): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\mummyman_bandage.cpp(74): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\mummyman_bandage.cpp(80): warning C4305: '=': truncation from 'double' to 'float'
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\mummyman_bandage.cpp(84): warning C4305: 'argument': truncation from 'double' to 'float'
+  MummyMan.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\mummyman.cpp(48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\mummyman.cpp(59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\mummyman.cpp(124): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\mummyman.cpp(126): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\mummyman.cpp(127): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\mummyman.cpp(164): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\mummyman.cpp(175): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\mummyman.cpp(261): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\mummyman.cpp(263): warning C4305: 'argument': truncation from 'double' to 'float'
+  MovableObject.cpp
+  Medusa_Snake.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\medusa_snake.cpp(20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\medusa_snake.cpp(43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\medusa_snake.cpp(83): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\medusa_snake.cpp(84): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\medusa_snake.cpp(86): warning C4305: '=': truncation from 'double' to 'float'
+  MedusaHead_List.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\medusahead_list.cpp(18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\medusahead_list.cpp(19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\medusahead_list.cpp(20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\medusahead_list.cpp(45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\medusahead_list.cpp(85): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\medusahead_list.cpp(85): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\medusahead_list.cpp(94): warning C4305: '=': truncation from 'double' to 'float'
+  MedusaHead.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\medusahead.cpp(33): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\medusahead.cpp(40): warning C4305: 'argument': truncation from 'double' to 'float'
+  Medusa.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\medusa.cpp(40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\medusa.cpp(78): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\medusa.cpp(79): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\medusa.cpp(80): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\medusa.cpp(118): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\medusa.cpp(125): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\medusa.cpp(215): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\medusa.cpp(217): warning C4305: 'argument': truncation from 'double' to 'float'
+  MapLevel3Scene.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Map.cpp
+  MainMenuScene.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\mainmenuscene.cpp(52): warning C4305: 'argument': truncation from 'double' to 'float'
+  Main.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  LongTrapRight.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\longtrapright.cpp(28): warning C4305: 'argument': truncation from 'double' to 'float'
+  LongTrapLeft.cpp
+  LifePlayer.cpp
+  Generating Code...
+  Compiling...
+  LifeEnemy.cpp
+  Life.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\life.cpp(26): warning C4305: 'argument': truncation from 'double' to 'float'
+  LargeHeart.cpp
+  KeyGame.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Keyboard.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Item.cpp
+  InvisibilityPotionItem.cpp
+  IntroScene.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Infomation.cpp
+  HolyWaterItem.cpp
+  HolyWater.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\holywater.cpp(51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\holywater.cpp(89): warning C4305: 'argument': truncation from 'double' to 'float'
+  Graphics.cpp
+  Ghost.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\ghost.cpp(35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\ghost.cpp(44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  GameTimeLoop.cpp
+  GameTime.cpp
+  GameState.cpp
+  GameSound.cpp
+  GameOverScene.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Fleamen.cpp
+  Enemy.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\enemy.cpp(21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\enemy.cpp(41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\enemy.cpp(48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\enemy.cpp(119): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\enemy.cpp(121): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  Compiling...
+  EffectAttack.cpp
+  DrawableObject.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\drawableobject.cpp(61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\drawableobject.cpp(62): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\drawableobject.cpp(68): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\drawableobject.cpp(99): warning C4305: '=': truncation from 'double' to 'float'
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\drawableobject.cpp(100): warning C4305: '=': truncation from 'double' to 'float'
+  DoubleShotItem.cpp
+  DoorChangeStage.cpp
+  Daggers.cpp
+  DaggerItem.cpp
+  CWaveFile.cpp
+  CrystalBallItem.cpp
+  CrownsItem.cpp
+  CrossItem.cpp
+  CollisionManager.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\collisionmanager.cpp(90): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\collisionmanager.cpp(91): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  ChestsItem.cpp
+  ChangeScene.cpp
+  CastleVaniaScene.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Camera.cpp
+  Bridge.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\bridge.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Brick.cpp
+  Box.cpp
+  BoomerangItem.cpp
+  Boomerang.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\boomerang.cpp(48): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  BonusesItem.cpp
+  BoneTower_Bullet.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\bonetower_bullet.cpp(18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\bonetower_bullet.cpp(19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\bonetower_bullet.cpp(42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\bonetower_bullet.cpp(73): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\bonetower_bullet.cpp(74): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\bonetower_bullet.cpp(79): warning C4305: '=': truncation from 'double' to 'float'
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\bonetower_bullet.cpp(82): warning C4305: 'argument': truncation from 'double' to 'float'
+  BoneTower.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\bonetower.cpp(33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\bonetower.cpp(53): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\bonetower.cpp(90): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\bonetower.cpp(94): warning C4305: 'argument': truncation from 'double' to 'float'
+  BlackItem.cpp
+  Bat.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\bat.cpp(24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\bat.cpp(31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  BaseObject.cpp
+f:\study\kì 5\nhập môn game\game final\se102.h12_14520990_14521042_14520288\gamecastlevania_tahitu\baseobject.cpp(71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Animate.cpp
+  Generating Code...
+  GameCastleVania_Tahitu.vcxproj -> F:\STUDY\Kì 5\Nhập môn Game\Game Final\SE102.H12_14520990_14521042_14520288\Debug\GameCastleVania_Tahitu.exe
